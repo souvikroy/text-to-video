@@ -1,6 +1,13 @@
-# Text to Video Generator
+# Text to Video : Generate your tintin video clip for any story
 
 An AI-powered application that converts text descriptions into engaging videos using OpenAI for text understanding and the Text-to-Video model from Hugging Face.
+
+# Input text as storyteller : 
+![Screenshot 2025-03-01 004432](https://github.com/user-attachments/assets/abb3a714-2e5b-4b54-b410-213612d9e110)
+
+# Output video : 
+https://github.com/user-attachments/assets/1fe29a8e-19cf-44f8-b577-dcdb30798dc1
+
 
 ## Features
 
